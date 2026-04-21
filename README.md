@@ -80,6 +80,6 @@ https://www.figma.com/proto/1eCg4gZWweaCf6H1A6tjxf/CRM?node-id=2-2&t=uN7sfdynYtn
 
 ![Madurai Client](design/Madurai_Client.png)
 
-![Salem Client](design/Salem_client.png)
+![Salem Client](design/Salem_Client.png)
 
 ![Trichy Client](design/Trichy_Client.png)
